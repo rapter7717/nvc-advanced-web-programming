@@ -10,7 +10,9 @@
 
 
 // 01. Create and use a string variable
+$test = "This is a test" ;
 
+echo $test ;
 
 
 
