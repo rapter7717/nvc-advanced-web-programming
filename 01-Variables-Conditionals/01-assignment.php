@@ -33,10 +33,10 @@ function sum($x, $y) {
 }
 
 function writeMsg() {
-    if ( $true_variable = TRUE ) {
-    echo "Hello world!";
-    } else {
-    echo "Hi Guys!";
+    if ( $true_variable == TRUE ) {
+    	echo "Hello world!";
+	} else {
+    	echo "Hi Guys!";
     }
     
 }
